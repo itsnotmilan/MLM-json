@@ -1,0 +1,14 @@
+{
+    "name": "Your Token Name",
+    "symbol": "SYMBOL",
+    "description": "Your token description",
+    "image": "https://your-image-url.com/image.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://your-image-url.com/image.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
